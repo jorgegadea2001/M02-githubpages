@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: #F1D302;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  color: #000; /* Puedes cambiar el color del texto según tus preferencias */
+}
